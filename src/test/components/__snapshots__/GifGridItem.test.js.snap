@@ -1,0 +1,15 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Prueba en <GifGtidItem /> debe demostrar el componente correctamente 1`] = `
+<div
+  className="card animate__animated animate__fadeInDown"
+>
+  <img
+    alt="Un titulo"
+    src="/"
+  />
+  <p>
+    Un titulo
+  </p>
+</div>
+`;
